@@ -1,7 +1,7 @@
 Employee-Management-System
 ====================
 
-* This is An Employee Management System *
+* *This is An Employee Management System*
 
 :wrench: Tech used
 -------------
