@@ -5,8 +5,8 @@ Employee-Management-System
 
 :wrench: Tech used
 -------------
-Programming Language - Python
-Database - MySQL
+Programming Language - Python.<br>
+Database - MySQL.
 
 :black_nib: Instructions
 1. Download and Install [MySQL](https://dev.mysql.com/downloads/mysql/)
