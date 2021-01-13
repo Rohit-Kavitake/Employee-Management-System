@@ -12,8 +12,7 @@ Database - MySQL.
 1. Download and Install [MySQL](https://dev.mysql.com/downloads/mysql/)
 2. In Config.py file Change the vlues of 
 a)LocalHost b)User c)Password
-
-3.All Done :smiley:
+3. All Done :smiley:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
