@@ -2,7 +2,7 @@
 import mysql.connector
 
 user = "root"
-mypass = "papaprogrammer1"
+mypass = "your Password"
 DatabaseName = "Employee"
 
 
